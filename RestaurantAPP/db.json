@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "name": "abhigyana123@gmail.com",
+      "email": "abhigyana123@gmail.com",
+      "mobile": "+918249239070",
+      "address": "abhigyan3619",
+      "services": "cutta"
+    },
+    {
+      "id": 8,
+      "name": "abhigyana123@gmail.com",
+      "email": "abhigyana123@gmail.com",
+      "mobile": "+918249239070",
+      "address": "abhigyan361999",
+      "services": "cuttack"
+    },
+    {
+      "id": 9,
+      "name": "abhigyana123@gmail.com",
+      "email": "abhigyana123@gmail.com",
+      "mobile": "+918249239070",
+      "address": "abhigyan361999",
+      "services": "cuttack"
+    },
+    {
+      "id": 10,
+      "name": "abhigyana123@gmail.com",
+      "email": "abhigyana123@gmail.com",
+      "mobile": "+918249239070",
+      "address": "abhigyan361999",
+      "services": "cuttack"
+    }
+  ],
+  "signup": [
+    {
+      "name": "abhigyana satpathy",
+      "email": "abhigyana123@gmail.com",
+      "mobile": "8249239070",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "name": "abhigyana satpathy",
+      "email": "abhigyana satpathy",
+      "mobile": "abhigyana satpathy",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "name": "abhigyana satpathy",
+      "email": "abhigyana satpathy",
+      "mobile": "abhigyana satpathy",
+      "password": "12345678",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
